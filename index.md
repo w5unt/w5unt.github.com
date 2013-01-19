@@ -14,3 +14,5 @@ Current information about club activities and events for the 2012–2013 school 
 [our Facebook group](https://www.facebook.com/groups/tamshams2012/).
 If you would like to join the club, please join our Facebook group.
 
+We will QSL direct and via eQSL and LoTW.
+Feel free to use any and all of those methods.
