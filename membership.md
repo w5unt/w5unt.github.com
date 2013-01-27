@@ -28,7 +28,8 @@ Licensed Members
 |Name|Callsign|License Class|Class Of|
 |------------------------------------|
 |Dr. Richard Sinclair|K5YBX|Extra|TAMS dean|
-|Krzysztof Drewniak|KF5SOQ|Technician|2014|
+|Krzysztof Drewniak|KF5SOQ|Extra|2014|
+|Cody Freitag||Technician|2013|
 |------------------------------------|
 {: .table .table-striped}
 
@@ -54,7 +55,6 @@ Inclusion on this list is subject to a determination of member activity made by 
 |-------------|
 |Dylan Airey|2013|
 |Ian Macaliano|2014|
-|Cody Freitag|2013|
 |Tommy Schaefer|2014|
 |Subodh Potia|2014|
 |-------------|
