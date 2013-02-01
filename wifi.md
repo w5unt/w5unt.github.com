@@ -19,13 +19,13 @@ Allowing limited (NTP and Debian repositories) outbound connections will be inve
 
 Services
 --------
+**Attention: Services are down because of a corruption issue. Everything should be back up next weekend**
 All of the W5UNT services are running on a Raspberry Pi, whose hostname is `raspberrypi`.
 There is a forum (based on phpBB3) running on port 80 of `raspberrypi`.
 You can connect to it, but you will be required to ID with your callsign before access.
-Upon registering for the forum, please go to the "Usergroups" section of your profile and join the group that matches your license class, if you want to do that.
 There is also an IRC server on port 6667 of `raspberrypi`.
 Please use your callsign as your username.
-Finally, there is shell access available to club members.
+Finally, there is shell (Telnet) access available to club members.
 If you would like an account, please inform any club officer.
 
 Technical Information
