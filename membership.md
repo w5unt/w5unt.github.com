@@ -17,7 +17,7 @@ Elections will be held May of 2013.
 |Dr. Richard Sinclair|K5YBX|Trustee and Faculty Advisor|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|President|2014|
 |Dylan Airey||Vice President|2013|
-|[To be determined]||Treasurer||
+|Cody Freitag|KF5TTX|Treasurer|2013|
 |-------------------------------|
 {: .table .table-striped}
 
@@ -29,7 +29,7 @@ Licensed Members
 |------------------------------------|
 |Dr. Richard Sinclair|K5YBX|Extra|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|Extra|2014|
-|Cody Freitag||Technician|2013|
+|Cody Freitag|KF5TTX|Technician|2013|
 |------------------------------------|
 {: .table .table-striped}
 
@@ -57,5 +57,6 @@ Inclusion on this list is subject to a determination of member activity made by 
 |Ian Macaliano|2014|
 |Tommy Schaefer|2014|
 |Subodh Potia|2014|
+|Jordan Harn|2014|
 |-------------|
 {: .table .table-striped}
