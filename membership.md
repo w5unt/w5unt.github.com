@@ -6,10 +6,26 @@ layout: default
 This page contains lists of current and former members of TAMShams.
 Regrettably, no membership records for years before 2012 exist.
 
-Officers (2012-2013)
+Officers (2013-2014)
 --------------------
 Since the club was re-activated this year, officers for 2012-2013 were appointed by the club President.
 Elections will be held May of 2013.
+ 
+|-------------------------------|
+|Name|Callsign|Position|Class Of|
+|-------------------------------|
+|Dr. Richard Sinclair|K5YBX|Trustee and Faculty Advisor|TAMS dean|
+|Krzysztof Drewniak|KF5SOQ|President|2014|
+|Subodh Potia||Vice President|2014|
+|Niven Wang||Treasurer|2014|
+|-------------------------------|
+{: .table .table-striped}
+
+
+
+Officers (2012-2013)
+--------------------
+Since the club was re-activated this year, officers for 2012-2013 were appointed by the club President.
  
 |-------------------------------|
 |Name|Callsign|Position|Class Of|
@@ -58,5 +74,6 @@ Inclusion on this list is subject to a determination of member activity made by 
 |Tommy Schaefer|2014|
 |Subodh Potia|2014|
 |Jordan Harn|2014|
+|Niven Wang|2014|
 |-------------|
 {: .table .table-striped}
