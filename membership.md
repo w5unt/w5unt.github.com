@@ -8,8 +8,7 @@ Regrettably, no membership records for years before 2012 exist.
 
 Officers (2013-2014)
 --------------------
-Since the club was re-activated this year, officers for 2012-2013 were appointed by the club President.
-Elections will be held May of 2013.
+These officers were appointed by the 2012-2013 officers February 26, 2013.
  
 |-------------------------------|
 |Name|Callsign|Position|Class Of|
