@@ -31,7 +31,7 @@ Since the club was re-activated this year, officers for 2012-2013 were appointed
 |-------------------------------|
 |Dr. Richard Sinclair|K5YBX|Trustee and Faculty Advisor|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|President|2014|
-|Dylan Airey||Vice President|2013|
+|Dylan Airey|KF5UUS|Vice President|2013|
 |Cody Freitag|KF5TTX|Treasurer|2013|
 |-------------------------------|
 {: .table .table-striped}
@@ -45,6 +45,7 @@ Licensed Members
 |Dr. Richard Sinclair|K5YBX|Extra|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|Extra|2014|
 |Cody Freitag|KF5TTX|Technician|2013|
+|Dylan Airey|KF5UUS|Technician|2013|
 |------------------------------------|
 {: .table .table-striped}
 
@@ -68,7 +69,6 @@ Inclusion on this list is subject to a determination of member activity made by 
 |-------------|
 |Name|Class Of|
 |-------------|
-|Dylan Airey|2013|
 |Ian Macaliano|2014|
 |Tommy Schaefer|2014|
 |Subodh Potia|2014|
