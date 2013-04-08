@@ -70,7 +70,6 @@ Inclusion on this list is subject to a determination of member activity made by 
 |Name|Class Of|
 |-------------|
 |Ian Macaliano|2014|
-|Tommy Schaefer|2014|
 |Subodh Potia|2014|
 |Jordan Harn|2014|
 |Niven Wang|2014|
