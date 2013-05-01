@@ -16,7 +16,7 @@ These officers were appointed by the 2012-2013 officers February 26, 2013.
 |Dr. Richard Sinclair|K5YBX|Trustee and Faculty Advisor|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|President|2014|
 |Subodh Potia||Vice President|2014|
-|Niven Wang||Treasurer|2014|
+|Ian Macaliano||Treasurer|2014|
 |-------------------------------|
 {: .table .table-striped}
 
@@ -46,6 +46,8 @@ Licensed Members
 |Krzysztof Drewniak|KF5SOQ|Extra|2014|
 |Cody Freitag|KF5TTX|Technician|2013|
 |Dylan Airey|KF5UUS|Technician|2013|
+|Subodh Potia||Technician|2014|
+|Ian Macaliano||Technician|2014|
 |------------------------------------|
 {: .table .table-striped}
 
@@ -69,8 +71,6 @@ Inclusion on this list is subject to a determination of member activity made by 
 |-------------|
 |Name|Class Of|
 |-------------|
-|Ian Macaliano|2014|
-|Subodh Potia|2014|
 |Jordan Harn|2014|
 |Niven Wang|2014|
 |-------------|
