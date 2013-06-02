@@ -15,12 +15,23 @@ These officers were appointed by the 2012-2013 officers February 26, 2013.
 |-------------------------------|
 |Dr. Richard Sinclair|K5YBX|Trustee and Faculty Advisor|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|President|2014|
-|Subodh Potia||Vice President|2014|
-|Ian Macaliano||Treasurer|2014|
+|Subodh Potia|KF5VOM|Vice President|2014|
+|Ian Macaliano|KF5VOK|Treasurer|2014|
 |-------------------------------|
 {: .table .table-striped}
 
+Licensed Members
+----------------
 
+|------------------------------------|
+|Name|Callsign|License Class|Class Of|
+|------------------------------------|
+|Dr. Richard Sinclair|K5YBX|Extra|TAMS dean|
+|Krzysztof Drewniak|KF5SOQ|Extra|2014|
+|Subodh Potia|KF5VOM|Technician|2014|
+|Ian Macaliano|KF5VOK|Technician|2014|
+|------------------------------------|
+{: .table .table-striped}
 
 Officers (2012-2013)
 --------------------
@@ -36,30 +47,14 @@ Since the club was re-activated this year, officers for 2012-2013 were appointed
 |-------------------------------|
 {: .table .table-striped}
 
-Licensed Members
-----------------
-
-|------------------------------------|
-|Name|Callsign|License Class|Class Of|
-|------------------------------------|
-|Dr. Richard Sinclair|K5YBX|Extra|TAMS dean|
-|Krzysztof Drewniak|KF5SOQ|Extra|2014|
-|Cody Freitag|KF5TTX|Technician|2013|
-|Dylan Airey|KF5UUS|Technician|2013|
-|Subodh Potia||Technician|2014|
-|Ian Macaliano||Technician|2014|
-|------------------------------------|
-{: .table .table-striped}
-
 Licensed Alumni
 --------------
 
-We'll have some next year!
-
 |------------------------------------|
 |Name|Callsign|License Class|Class Of|
 |------------------------------------|
-|    |        |             |        |
+|Cody Freitag|KF5TTX|Technician|2013|
+|Dylan Airey|KF5UUS|Technician|2013|
 |------------------------------------|
 {: .table .table-striped}
 
