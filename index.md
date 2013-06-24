@@ -9,10 +9,10 @@ This is the website of TAMShams, the amateur radio club of the
 
 Our purpose is to promote interest and participation in amateur radio at TAMS and to do cool stuff on the air.
 
-Meetings during the 2012–2013 school year will be held every Tuesday at 8:00 PM in the W5UNT station unless otherwise announced.
+Meetings during the 2013–2014 school year will be held every Wendesday at 7:00 PM in the W5UNT station unless otherwise announced.
 Current information about club activities and events for the 2012–2013 school year can be found at 
 [our Facebook group](https://www.facebook.com/groups/tamshams2012/).
 If you would like to join the club, please join our Facebook group.
 
-We will QSL direct and via eQSL and LoTW.
+We will QSL direct and via the buro, eQSL, and LoTW.
 Feel free to use any and all of those methods.
