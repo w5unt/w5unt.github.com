@@ -3,8 +3,7 @@ layout: default
 title: Why join?
 ---
 
-Why you should join ham (amateur) radio
-----------------------------------------
+### Why you should join ham (amateur) radio
 
  - Ham radio lets you communicate with people all over the world without using any commercial infrastructure
  - Ham radio will be very helpful during a zombie apocalypse (or, say, after a tornado)
@@ -18,8 +17,7 @@ Why you should join ham (amateur) radio
  - There’s a huge variety of things to do and experiment with
  - And finally, ham radio is FUN!
  
-Why you should join TAMShams
-----------------------------
+### Why you should join TAMShams
 
  - TAMShams members have access to state-of-the-art radio equipment
  - We’ll help you get started with ham radio
