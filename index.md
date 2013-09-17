@@ -16,3 +16,8 @@ If you would like to join the club, please join our Facebook group.
 
 We will QSL direct and via the buro, eQSL, and LoTW.
 Feel free to use any and all of those methods.
+
+We are currently trying for the Worked All States (WAS) award.
+You can see the list of states we have and haven't contacted at [this page](http://w5unt.com/was.html).
+If you're in one of the states we're missing, of if you just want to chat, we would really appreciate a sked.
+To arrange skeds, please email kf5soq@arrl.net .
