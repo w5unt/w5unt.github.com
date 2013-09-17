@@ -5,53 +5,53 @@ title: W5UNT WAS Tracking
 We've been working on getting the Worked All States award.
 Here's our list of states we have, and states we're still missing.
 
-- ~Alabama~
+- <del>Alabama</del>
 - Alaska
-- ~Arizona~
-- ~Arkansas~
-- California~
-- ~Colorado~
-- ~Connecticut~
+- <del>Arizona</del>
+- <del>Arkansas</del>
+- California</del>
+- <del>Colorado</del>
+- <del>Connecticut</del>
 - Delaware 	 
-- ~Florida~
-- ~Georgia~
-- ~Hawaii~
+- <del>Florida</del>
+- <del>Georgia</del>
+- <del>Hawaii</del>
 - Idaho 	 
-- ~Illinois~
-- ~Indiana~
-- ~Iowa~
-- ~Kansas~
-- ~Kentucky~
+- <del>Illinois</del>
+- <del>Indiana</del>
+- <del>Iowa</del>
+- <del>Kansas</del>
+- <del>Kentucky</del>
 - Louisiana 	 
-- ~Maine~
+- <del>Maine</del>
 - Maryland 	 
-- ~Massachusetts~
-- ~Michigan~
-- ~Minnesota~
-- ~Mississippi~
-- ~Missouri~
+- <del>Massachusetts</del>
+- <del>Michigan</del>
+- <del>Minnesota</del>
+- <del>Mississippi</del>
+- <del>Missouri</del>
 - Montana 	 
-- ~Nebraska~
-- ~Nevada~
-- ~New Hampshire~
-- New Jersey~
+- <del>Nebraska</del>
+- <del>Nevada</del>
+- <del>New Hampshire</del>
+- New Jersey</del>
 - New Mexico 	 
-- ~New York~
-- ~North Carolina~
-- ~North Dakota~
-- ~Ohio~
+- <del>New York</del>
+- <del>North Carolina</del>
+- <del>North Dakota</del>
+- <del>Ohio</del>
 - Oklahoma 	 
-- ~Oregon~
-- ~Pennsylvania~
+- <del>Oregon</del>
+- <del>Pennsylvania</del>
 - Rhode Island 	 
-- ~South Carolina~
-- ~South Dakota~
-- ~Tennessee~
-- ~Texas~
+- <del>South Carolina</del>
+- <del>South Dakota</del>
+- <del>Tennessee</del>
+- <del>Texas</del>
 - Utah 	 
-- ~Vermont~
-- ~Virginia~
-- ~Washington~
-- ~West Virginia~
-- ~Wisconsin~
+- <del>Vermont</del>
+- <del>Virginia</del>
+- <del>Washington</del>
+- <del>West Virginia</del>
+- <del>Wisconsin</del>
 - Wyoming 	 
