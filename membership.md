@@ -15,8 +15,8 @@ These officers were appointed by the 2012-2013 officers February 26, 2013.
 |-------------------------------|
 |Dr. Richard Sinclair|K5YBX|Trustee and Faculty Advisor|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|President|2014|
-|Subodh Potia|KF5VOM|Vice President|2014|
-|Ian Macaliano|KF5VOK|Treasurer|2014|
+|Subodh Potla|KF5VOM|Vice President|2014|
+|Ian Macalinao|KF5VOK|Treasurer|2014|
 |-------------------------------|
 {: .table .table-striped}
 
@@ -28,8 +28,8 @@ Licensed Members
 |------------------------------------|
 |Dr. Richard Sinclair|K5YBX|Extra|TAMS dean|
 |Krzysztof Drewniak|KF5SOQ|Extra|2014|
-|Subodh Potia|KF5VOM|Technician|2014|
-|Ian Macaliano|KF5VOK|Technician|2014|
+|Subodh Potla|KF5VOM|Technician|2014|
+|Ian Macalinao|KF5VOK|Technician|2014|
 |------------------------------------|
 {: .table .table-striped}
 
