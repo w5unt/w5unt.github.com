@@ -9,7 +9,7 @@ Here's our list of states we have, and states we're still missing.
 - Alaska
 - <del>Arizona</del>
 - <del>Arkansas</del>
-- California</del>
+- <del>California</del>
 - <del>Colorado</del>
 - <del>Connecticut</del>
 - Delaware 	 
@@ -34,7 +34,7 @@ Here's our list of states we have, and states we're still missing.
 - <del>Nebraska</del>
 - <del>Nevada</del>
 - <del>New Hampshire</del>
-- New Jersey</del>
+- <del>New Jersey</del>
 - New Mexico 	 
 - <del>New York</del>
 - <del>North Carolina</del>
