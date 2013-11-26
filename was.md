@@ -12,38 +12,38 @@ Here's our list of states we have, and states we're still missing.
 - <del>California</del>
 - <del>Colorado</del>
 - <del>Connecticut</del>
-- Delaware 	 
+- Delaware
 - <del>Florida</del>
 - <del>Georgia</del>
 - <del>Hawaii</del>
-- Idaho 	 
+- Idaho
 - <del>Illinois</del>
 - <del>Indiana</del>
 - <del>Iowa</del>
 - <del>Kansas</del>
 - <del>Kentucky</del>
-- Louisiana 	 
+- Louisiana
 - <del>Maine</del>
-- Maryland 	 
+- <del>Maryland</del>
 - <del>Massachusetts</del>
 - <del>Michigan</del>
 - <del>Minnesota</del>
 - <del>Mississippi</del>
 - <del>Missouri</del>
-- Montana 	 
+- Montana
 - <del>Nebraska</del>
 - <del>Nevada</del>
 - <del>New Hampshire</del>
 - <del>New Jersey</del>
-- New Mexico 	 
+- New Mexico
 - <del>New York</del>
 - <del>North Carolina</del>
 - <del>North Dakota</del>
 - <del>Ohio</del>
-- Oklahoma 	 
+- Oklahoma
 - <del>Oregon</del>
 - <del>Pennsylvania</del>
-- Rhode Island 	 
+- <del>Rhode Island</del>
 - <del>South Carolina</del>
 - <del>South Dakota</del>
 - <del>Tennessee</del>
