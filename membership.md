@@ -30,8 +30,9 @@ Licensed Members
 |Krzysztof Drewniak|KF5SOQ|Extra|2014|
 |Subodh Potla|KF5VOM|Technician|2014|
 |Ian Macalinao|KF5VOK|General|2014|
-|Aidan Young|KF5ZAM|Technician|2015|
+|Aidan Young|KF5ZAM|General|2015|
 |Seth Harbin|KF5ZAQ|Technician|2015|
+|Michael Hashe|KG5ADT|Technician|2015|
 |------------------------------------|
 {: .table .table-striped}
 
@@ -70,6 +71,5 @@ Inclusion on this list is subject to a determination of member activity made by 
 |-------------|
 |Devon Richard|2015|
 |Sam Stellpflug|2015|
-|Michael Hashe|2015|
 |-------------|
 {: .table .table-striped}
