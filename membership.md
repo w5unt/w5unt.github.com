@@ -39,6 +39,8 @@ Inclusion on this list is subject to a determination of member activity made by 
 |-------------|
 |Name|Class Of|
 |-------------|
+|&nbsp;|&nbsp;|
+|-------------|
 {: .table .table-striped}
 
 Licensed Alumni

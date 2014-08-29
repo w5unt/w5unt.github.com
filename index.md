@@ -20,4 +20,4 @@ Feel free to use any and all of those methods.
 We are currently trying for the Worked All States (WAS) award.
 You can see the list of states we have and haven't contacted at [this page](http://w5unt.com/was.html).
 If you're in one of the states we're missing, of if you just want to chat, we would really appreciate a sked.
-To arrange skeds, please email kf5soq@arrl.net .
+To arrange skeds, please email TAMSHams.w5unt@gmail.com .
